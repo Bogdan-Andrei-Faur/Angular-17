@@ -1,0 +1,11 @@
+section {
+    max-width: 500px;
+    margin: 0px auto;
+    font-size: 24px;
+}
+
+img {
+    width: 150px;
+    object-fit: cover;
+    border-radius: 80px;
+}
